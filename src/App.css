@@ -1,0 +1,19 @@
+.App {
+  padding-top: 36px;
+  text-align: center;
+}
+
+.custom-title {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.movies-list {
+  padding: 25px;
+}
+
+.search-from-wrapper {
+  display: flex;
+  justify-content: center;
+}
